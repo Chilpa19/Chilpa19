@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there I'm Chilpa
 
-<!--
-**Chilpa19/Chilpa19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm an ingineer
+- 9 teen
+- Warzone 🎮🕹
+- Soccer ⚽
 
-Here are some ideas to get you started:
+### I think I'm in the learning process.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/87553596/190922462-3560b3f9-7723-491d-aea1-ae31063d4e51.jpg" width="400" height="400" />
+</div>
