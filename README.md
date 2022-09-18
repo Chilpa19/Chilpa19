@@ -1,6 +1,6 @@
 ### Hi there I'm Chilpa
 
-- I'm an ingineer
+- I'm a process engineer
 - 9 teen
 - Warzone 🎮🕹
 - Soccer ⚽
