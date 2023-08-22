@@ -1,7 +1,7 @@
 ### Hi there I'm Chilpa
 
-- I'm a process engineer
-- 9 teen
+- I'm a process computer engineer 
+- Twenty
 - Warzone 🎮🕹
 - Soccer ⚽
 
