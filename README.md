@@ -1,7 +1,7 @@
 # Hi there I'm Chilpa
 
 # 💫 About Me:
-<br>- I'm a process engineer<br>- Pasión por la programación<br>- Twenty<br>- Desarrollador Web (Front End)<br>
+<br>- I'm a process engineer<br>- Pasión por la programación<br>- Twenty two<br>- Desarrollador Web (Front End)<br>
 
 
 ## 🌐 Socials:
